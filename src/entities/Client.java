@@ -11,7 +11,7 @@ public class Client {
     private String email;
     private LocalDate birthDate;
 
-    Client () {
+    public Client () {
 
     }
 
